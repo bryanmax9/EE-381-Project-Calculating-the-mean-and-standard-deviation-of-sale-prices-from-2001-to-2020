@@ -56,6 +56,4 @@ pip install matplotlib
 - Run the Python script project_code.py to perform the analysis and generate the plots.
 - Check the outputs in the generated plots and ensure they meet the project requirements.
 
-# Dataplot Images
 
-Soon...
